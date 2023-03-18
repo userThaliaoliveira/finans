@@ -11,3 +11,9 @@
 footer p a {
 	margin: 5px 15px;
 }
+#rodape {
+	clear: both;
+	text-align: center;
+	padding: 15px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
